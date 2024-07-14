@@ -1,0 +1,38 @@
+header
+{background-color: #f5f5f5;height: 5.5vh;}
+header svg 
+{height: 14px;width: 14px;margin-left: 14%;margin-top: 1%;}
+#divG{display: grid; grid-template-columns: 0.40fr 0.25fr 0.60fr 0.20fr 0.40fr; grid-template-rows: 0.12fr 0.2fr 1fr;}
+#G1{color: aliceblue;}
+#G2{background-color: white;    }
+#G3{font-size: 14px;}
+#G4{display: flex;}
+#span1{font-size: 2vh; display: inline-block; margin-top: 1.5vh;}
+#span2{font-size: 2vh;margin-left: 4vh;}
+svg{height: 20px; margin-left: 10px;}
+#spanIt{margin-left: 30px;}
+#spandin{margin-left: 5px;}
+#G42{grid-row: 2; grid-column: 4; display: flex;height: 70px;}
+#G42 img{height: 50px;}
+#divtel{display: flex; flex-direction: column; margin-left: 14px;}
+#spansup{margin-top: 10px;}
+#b1{width: 130px; font-size: 18px;}
+#Gimg{grid-row: 3; grid-column: 3;}
+#divFP{ display: inline-block; margin-left: 80vh;}
+#divALL{display: flex;}
+#divALL span{margin-left: 19px;}
+#h1fp{position: relative; left: 5vh;}
+#fruits{ display: grid; grid-template-columns: 0.40fr 0.35fr 0.10fr 0.35fr 0.10fr 0.35fr 0.10fr 0.35fr 0.40fr; grid-template-rows: 220px 80px; margin-top: 50px;}
+#C2L1{background-image: url(cat-1.jpg.webp) ; grid-row: 1; grid-column: 2;}
+#C4L1{background-image: url(cat-1.jpg.webp) ; grid-row: 1; grid-column: 4;}
+#C6L1{background-image: url(cat-1.jpg.webp) ; grid-row: 1; grid-column: 6;}
+#C8L1{background-image: url(cat-1.jpg.webp) ; grid-row: 1; grid-column: 8;}
+#divcrabpool{display: inline-flex; flex-direction: column;}
+#C2L2{grid-row: 2; grid-column: 2; text-align: center;}
+#spancrabpool{margin-top: 20px;}
+#b30{margin-top: 10px;}
+#C4L2{grid-row: 2; grid-column: 4; text-align: center;}
+#C6L2{grid-row: 2; grid-column: 6; text-align: center;}
+#C8L2{grid-row: 2; grid-column: 8; text-align: center;}
+#secShopNow{display: flex; margin-left: 33vh;}
+#imgsuco{margin-left: 60px;}
